@@ -1,0 +1,23 @@
+{
+  "name": "steam-url-checker",
+  "version": "1.0.0",
+  "description": "Simple steam vanity URL checker.",
+  "author": "znixbtw",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "https://github.com/znixbtw/steam-url-checker.git",
+  "bugs": "https://github.com/znixbtw/steam-url-checker/issues",
+  "homepage": "https://github.com/znixbtw/steam-url-checker#readme",
+  "keywords": [
+    "steam",
+    "url",
+    "vanity",
+    "checker"
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
